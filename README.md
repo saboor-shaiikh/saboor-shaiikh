@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>M name is Abdul Saboor.<br>🔭 I’m pursuing my Bachelor in Computer Sciences.<br>🤝 I’m looking for help with FYP ideas.<br>🌱 I’m currently learning Web Development.
+<br>My name is Abdul Saboor.<br>🔭 I’m pursuing my Bachelor in Computer Sciences.<br>🤝 I’m looking for help with FYP ideas.<br>🌱 I’m currently learning Web Development.
 
 
 ## 🌐 Socials:
