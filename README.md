@@ -23,11 +23,6 @@ I bridge the gap between complex backend logic and clean, functional frontend de
 
 ---
 
-### 📊 Performance & Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saboor-shaiikh&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saboor-shaiikh&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e" height="160" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=saboor-shaiikh&theme=transparent&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
@@ -36,7 +31,7 @@ I bridge the gap between complex backend logic and clean, functional frontend de
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://linkedin.com/in/abdul-saboor6940) • [Instagram](https://instagram.com/saboorshaiikh) • [Email](mailto:saboorsheikh201@gmail.com)
+[LinkedIn](https://linkedin.com/in/abdul-saboor6940) • [Instagram](https://instagram.com/saboorshaiikh) • [Email](mailto:connect.saboor@gmail.com)
 
 ---
 <p align="center">
